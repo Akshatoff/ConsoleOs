@@ -20,13 +20,13 @@ class Options {
         if (options == "Code")
         {
             reply = "Getting things ready";
-            int exitcode = system("code.txt");
+            int exitcode = system("Code.exe");
 
         }
         else if (options == "Browser")
         {
             reply = "Opening up Browser";
-            system("browser.txt");
+            system("brave.exe");
         }
         else if(options == "Journal" || options=="journal") {
            
