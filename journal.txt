@@ -1,8 +1,2 @@
 Journal
-		
-Date -: 
-/20/2/2024
-		 Today I laid the basic foundation of my Console Os and tried making a nlp bot but meh don't want to this is the first journal entry then
-Date -: 
-/28/2/2024
-		I finally finished the registration and login system
+
